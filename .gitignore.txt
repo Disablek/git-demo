@@ -1,0 +1,4 @@
+*.db
+*.log
+/TODO targer
+/TODO bin
